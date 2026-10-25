@@ -1,0 +1,13 @@
+{
+    "equipment": [
+        {
+            "id": 4,
+            "name": "cam",
+            "category": "cams",
+            "quantity": 1
+        }
+    ],
+    "transactions": [],
+    "next_equipment_id": 5,
+    "next_transaction_id": 1
+}
